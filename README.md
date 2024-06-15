@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Soumya Tripathy
-- 👀 I’m interested in Coding and exploring new technologies
-- 🌱 Daily learner by diving myself into developing stuffs that I love the most
-- 😄 Pronouns: Coder
-- ⚡ Fun fact: Stuck in finding error in the code file but later on found that the file name is typed incorrect in the code 😂
+- 👋 Hi, I’m Soumya Tripathy.
+- 👀 I’m interested in Coding and exploring new technologies.
+- 🌱 Immersing myself in developing the things I love the most makes me a dedicated daily learner.
+- 😄 Pronouns: Coder, Learner.
+- ⚡ Fun fact: I can type faster in code than in plain English 😂!
 - 📫 Reach me at soumyatripathy977@gmail.com
 
