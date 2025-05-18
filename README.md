@@ -1,7 +1,23 @@
-- 👋 Hi, I’m Soumya Tripathy.
-- 👀 I’m interested in Coding and exploring new technologies.
-- 🌱 Immersing myself in developing the things I love the most makes me a dedicated daily learner.
-- 😄 Pronouns: Coder, Learner.
-- ⚡ Fun fact: I can type faster in code than in plain English 😂!
-- 📫 Reach me at soumyatripathy977@gmail.com
+# 👋 Hi there, I'm Soumya Tripathy!
+
+👀 I'm deeply interested in **coding** and constantly exploring new technologies.  
+🌱 Immersing myself in developing the things I love the most makes me a dedicated daily learner.  
+😄 Pronouns: *Coder*, *Learner*  
+⚡ **Fun fact:** I can type faster in code than in plain English 😂  
+📫 Reach me at: **soumyatripathy977@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: JavaScript, PHP, Python
+- 🌐 Web: React.js, HTML, CSS, MySQL, MongoDB, Firebase
+- 📱 Mobile: Flutter, React Native
+- 🔐 Interests: Cybersecurity, Identity Governance (SailPoint), CyberArk, OKTA, Sailpoint
+
+---
+
+### 🌍 Let's Connect!
+Feel free to check out my projects, collaborate, or just say hi 😄
+
+
 
