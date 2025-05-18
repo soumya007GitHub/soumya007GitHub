@@ -12,7 +12,7 @@
 - 💻 Languages: JavaScript, PHP, Python
 - 🌐 Web: React.js, HTML, CSS, MySQL, MongoDB, Firebase
 - 📱 Mobile: Flutter, React Native
-- 🔐 Interests: Cybersecurity, Identity Governance (SailPoint), CyberArk, OKTA, Sailpoint
+- 🔐 Interests: App & Web Development, Cybersecurity, Identity Governance (SailPoint, CyberArk, OKTA, Saviynt)
 
 ---
 
