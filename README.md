@@ -9,10 +9,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: JavaScript, PHP, Java
-- 🌐 Web: HTML, CSS, TailwindCSS, BootStrap CSS, React.js, Next.js, MySQL, Firebase
+- 💻 Languages: JavaScript, PHP
+- 🌐 Web: HTML, CSS, SCSS, BootStrap CSS, TailwindCSS, React.js, Node.js, Express.js, Next.js, MySQL, MongoDB
 - 📱 Mobile: Flutter, React Native
-- 🔐 Interests: App & Web Development, Cybersecurity, Identity Governance (SailPoint, CyberArk, OKTA, Saviynt)
+- 🔐 Interests: App & Web Development, Cybersecurity, Service Now, Identity Governance (SailPoint, OKTA)
 
 ---
 
