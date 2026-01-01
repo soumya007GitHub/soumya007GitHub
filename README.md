@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Soumya Ranjan Tripathy
+# Hi👋, I'm Soumya Ranjan Tripathy
 
 **Full Stack Developer @ InnoWaft Solutions** | **Ex-Associate Analyst @ Deloitte**  
-Scalable web systems · Clean architecture · Production-ready code
+Building Scalable web systems, clean architecture & production-ready code.
 
 </div>
 
@@ -42,4 +42,6 @@ Scalable web systems · Clean architecture · Production-ready code
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 </a>
 
+🤝 Connect With Me
+If you like my work, consider starring my repositories and connecting with me :)
 </div>
