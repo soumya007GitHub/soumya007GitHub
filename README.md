@@ -35,10 +35,10 @@ Building Scalable web systems, clean architecture & production-ready code.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank">
+<a href="https://www.linkedin.com/in/soumya-tripathy007" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
-<a href="https://github.com/soumya007GitHub" target="_blank">
+<a href="https://github.com/soumya007GitHub" target="blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 </a>
 
