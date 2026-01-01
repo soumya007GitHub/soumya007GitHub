@@ -42,6 +42,5 @@ Building Scalable web systems, clean architecture & production-ready code.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
 </a>
 
-🤝 Connect With Me
-If you like my work, consider starring my repositories and connecting with me :)
+🤝 Connect with me if you like my work, consider starring my repositories :)
 </div>
