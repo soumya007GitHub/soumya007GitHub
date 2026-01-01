@@ -24,12 +24,12 @@ Scalable web systems · Clean architecture · Production-ready code
 
 <div align="center">
 
-**LeetCode Metrics**  
+**🔥 LeetCode Metrics**  
 **170+ Problems** · **1414 Rating** · **63-Day Streak** · **100+ Active Days**  
 🔗 https://leetcode.com/soumya724/
 
-<img src="./50-days.gif" width="110"/>
-<img src="./100-days.gif" width="110"/>
+<img src="./50-days.gif" width="100"/>
+<img src="./100-days.gif" width="100"/>
 
 </div>
 
