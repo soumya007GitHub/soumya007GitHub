@@ -19,7 +19,7 @@ I’m a passionate **Full Stack Developer** who enjoys owning features end-to-en
 
 <div align="center">
 
-### 🛠️ Tech Stack (What I Work With)
+### Tech Stack (What I Work With)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
@@ -63,8 +63,8 @@ My long-term goal is to grow into a **high-impact SDE**, work on meaningful prod
 
 ## LeetCode Badges
 
-<img src="./leetcode-100-days.png" width="140" />
-<img src="./leetcode-1-day.png" width="140" />
+<img src="./50-days.gif" width="140" />
+<img src="./100-days.gif" width="140" />
 
 </div>
 
