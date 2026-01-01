@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm **Soumya Ranjan Tripathy**
 
-🚀 **Full Stack Developer @ InnoWaft Solutions** | 🎯 Aspiring **Software Development Engineer (SDE)**
-💻 Building **scalable, high-performance web applications** with a strong focus on **clean architecture & maintainable code**.
+**Full Stack Developer @ InnoWaft Solutions** | **Ex-Associate Analyst @ Deloitte**
+Building **scalable, high-performance web applications** with a strong focus on **clean architecture & maintainable code**.
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
 </div>
 
@@ -43,39 +43,7 @@ My long-term goal is to grow into a **high-impact SDE**, work on meaningful prod
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### 🎨 Styling & UI
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### ☁️ Database, Cloud & DevOps
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 LeetCode Journey
+## LeetCode Journey
 
 </div>
 
@@ -93,7 +61,7 @@ My long-term goal is to grow into a **high-impact SDE**, work on meaningful prod
 
 <div align="center">
 
-## 🏅 LeetCode Badges
+## LeetCode Badges
 
 <img src="./leetcode-100-days.png" width="140" />
 <img src="./leetcode-1-day.png" width="140" />
@@ -115,7 +83,7 @@ My long-term goal is to grow into a **high-impact SDE**, work on meaningful prod
 
 <div align="center">
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/soumya-tripathy007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/soumya007GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://soumya007github.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
@@ -125,6 +93,6 @@ My long-term goal is to grow into a **high-impact SDE**, work on meaningful prod
 
 <div align="center">
 
-⭐ **If you like my work, consider starring my repositories and connecting with me!** 🚀
+**If you like my work, consider starring my repositories and connecting with me!**
 
 </div>
