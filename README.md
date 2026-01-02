@@ -26,18 +26,10 @@ Building scalable web systems, clean architecture & production-ready code.
 
 **🔥 LeetCode Metrics**  
 **170+ Problems** · **1414 Rating** · **63-Day Streak** · **100+ Active Days**  
-<a href="https://leetcode.com/soumya724/" target="_blank" title="LeetCode Profile">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+<a href="https://leetcode.com/soumya724/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LeetCode-soumya724-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
     alt="LeetCode"
-    width="40"
-    height="40"
-    style="
-      background-color:#FFA116;
-      padding:10px;
-      border-radius:10px;
-      margin:0 10px;
-    "
   />
 </a>
 
@@ -48,33 +40,17 @@ Building scalable web systems, clean architecture & production-ready code.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank" title="LinkedIn Profile">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Soumya%20Tripathy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
-    width="40"
-    height="40"
-    style="
-      background-color:#0A66C2;
-      padding:10px;
-      border-radius:10px;
-      margin:0 10px;
-    "
   />
 </a>
 
-<a href="https://github.com/soumya007GitHub" target="_blank" title="GitHub Profile">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+<a href="https://github.com/soumya007GitHub" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-soumya007GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
-    width="40"
-    height="40"
-    style="
-      background-color:#181717;
-      padding:10px;
-      border-radius:10px;
-      margin:0 10px;
-    "
   />
 </a>
 
