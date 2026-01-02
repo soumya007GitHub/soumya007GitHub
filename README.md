@@ -3,7 +3,7 @@
 # Hi I'm 👋, Soumya Ranjan Tripathy
 
 **Full Stack Developer @ InnoWaft Solutions** | **Ex-Associate Analyst @ Deloitte**  
-Scalable web systems · Clean architecture · Production-ready code
+Building Scalable web systems with clean architecture & production-ready code.
 
 </div>
 
@@ -25,7 +25,7 @@ Scalable web systems · Clean architecture · Production-ready code
 <div align="center">
 
 **LeetCode Metrics**  
-**170+ Problems** · **1414 Rating** · **63-Day Streak** · **100+ Active Days**  
+**Solved 170+ Problems** · **1414 Rating** · **63-Day Streak** · **100+ Active Days**  
 <a href="https://leetcode.com/soumya724/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/>
 </a>
