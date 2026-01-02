@@ -26,9 +26,19 @@ Building scalable web systems, clean architecture & production-ready code.
 
 **🔥 LeetCode Metrics**  
 **170+ Problems** · **1414 Rating** · **63-Day Streak** · **100+ Active Days**  
-<a href="https://leetcode.com/soumya724/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" 
-       alt="LeetCode" width="40" height="40" style="margin: 0 12px;"/>
+<a href="https://leetcode.com/soumya724/" target="_blank" title="LeetCode Profile">
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+    alt="LeetCode"
+    width="40"
+    height="40"
+    style="
+      background-color:#FFA116;
+      padding:10px;
+      border-radius:10px;
+      margin:0 10px;
+    "
+  />
 </a>
 
 <img src="./50-days.gif" width="100"/>
@@ -38,13 +48,34 @@ Building scalable web systems, clean architecture & production-ready code.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" 
-       alt="LinkedIn" width="40" height="40" style="margin: 0 12px;"/>
+<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank" title="LinkedIn Profile">
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+    alt="LinkedIn"
+    width="40"
+    height="40"
+    style="
+      background-color:#0A66C2;
+      padding:10px;
+      border-radius:10px;
+      margin:0 10px;
+    "
+  />
 </a>
-<a href="https://github.com/soumya007GitHub" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" 
-       alt="GitHub" width="40" height="40" style="margin: 0 12px;"/>
+
+<a href="https://github.com/soumya007GitHub" target="_blank" title="GitHub Profile">
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+    alt="GitHub"
+    width="40"
+    height="40"
+    style="
+      background-color:#181717;
+      padding:10px;
+      border-radius:10px;
+      margin:0 10px;
+    "
+  />
 </a>
 
 🤝 Connect with me if you like my work, consider starring my repositories :)
