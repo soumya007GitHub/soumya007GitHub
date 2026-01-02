@@ -35,22 +35,11 @@ Scalable web systems · Clean architecture · Production-ready code
 
 <div align="center">
 
-**GitHub Snapshot**  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumya007GitHub&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya007GitHub&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://www.linkedin.com/in/soumya-tripathy007">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
 <a href="https://github.com/soumya007GitHub">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
-</a>
-<a href="https://soumya007github.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
 </div>
