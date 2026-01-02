@@ -26,7 +26,9 @@ Scalable web systems · Clean architecture · Production-ready code
 
 **LeetCode Metrics**  
 **170+ Problems** · **1414 Rating** · **63-Day Streak** · **100+ Active Days**  
-🔗 https://leetcode.com/soumya724/
+<a href="https://leetcode.com/soumya724/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/>
+</a>
 
 <img src="./50-days.gif" width="110"/>
 <img src="./100-days.gif" width="110"/>
