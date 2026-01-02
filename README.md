@@ -26,7 +26,10 @@ Building scalable web systems, clean architecture & production-ready code.
 
 **🔥 LeetCode Metrics**  
 **170+ Problems** · **1414 Rating** · **63-Day Streak** · **100+ Active Days**  
-🔗 [LeetCode](https://leetcode.com/soumya724/)
+<a href="https://leetcode.com/soumya724/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" 
+       alt="LeetCode" width="40" height="40" style="margin: 0 12px;"/>
+</a>
 
 <img src="./50-days.gif" width="100"/>
 <img src="./100-days.gif" width="100"/>
@@ -36,10 +39,12 @@ Building scalable web systems, clean architecture & production-ready code.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" 
+       alt="LinkedIn" width="40" height="40" style="margin: 0 12px;"/>
 </a>
 <a href="https://github.com/soumya007GitHub" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" 
+       alt="GitHub" width="40" height="40" style="margin: 0 12px;"/>
 </a>
 
 🤝 Connect with me if you like my work, consider starring my repositories :)
