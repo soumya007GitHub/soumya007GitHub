@@ -32,7 +32,7 @@ Building Scalable web systems with clean architecture & production-ready code.
 
 <img src="./50-days.gif" width="110"/>
 <img src="./100-days.gif" width="110"/>
-<img src="./Jan-26.gif" width="110"/>
+<img src="./jan 26.gif" width="110"/>
 
 </div>
 
