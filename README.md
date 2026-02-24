@@ -30,9 +30,10 @@ Building Scalable web systems with clean architecture & production-ready code.
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/>
 </a>
 
-<img src="./50-days.gif" width="110"/>
-<img src="./100-days.gif" width="110"/>
-<img src="./jan-26.gif" width="110"/>
+<img src="./50-days.gif" width="90"/>
+<img src="./100-days.gif" width="90"/>
+<img src="./jan-26.gif" width="90"/>
+<img src="./50-Days-2026.gif" width="90"/>
 
 </div>
 
