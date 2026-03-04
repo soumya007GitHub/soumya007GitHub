@@ -25,7 +25,7 @@ Building Scalable web systems with clean architecture & production-ready code.
 <div align="center">
 
 **LeetCode Metrics**  
-**Solved 290+ Problems** · **Global Ranking - 455,906** . **1414 Rating** · **90-Day Streak** · **150+ Active Days**  
+**Solved 𝟑𝟎𝟎+ Problems** · **Global Ranking - 444, 480** . **1414 Rating** · **94-Day Streak** · **150+ Active Days**  
 <a href="https://leetcode.com/soumya724/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/>
 </a>
