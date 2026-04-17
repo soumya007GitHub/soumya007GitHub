@@ -35,6 +35,7 @@ Building Scalable web systems with clean architecture & production-ready code.
 <img src="./jan-26.gif" width="90"/>
 <img src="./50-Days-2026.gif" width="90"/>
 <img src="./2026 Feb.gif" width="90"/>
+<img src="./100-2026.gif" width="90"/>
 
 </div>
 
