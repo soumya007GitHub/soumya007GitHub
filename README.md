@@ -10,15 +10,7 @@ Building Scalable web systems with clean architecture & production-ready code us
 <div align="center">
 
 **Tech Stack**  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-34c414?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite,nextjs,nodejs,express,java,mongodb,mysql,firebase,materialui,aws,docker,kubernetes,git,github,githubactions,linux,nginx,postman)
 
 </div>
 
