@@ -17,7 +17,7 @@ Building Scalable web systems with clean architecture & production-ready code us
 <div align="center">
 
 **LeetCode Metrics**  
-**Solved 350+ Problems** · **Global Ranking - 354,105** . **1414 Rating** · **7 Months Streak** · **150+ Active Days**  
+*Solved 350+ Problems* · *Global Ranking - 354,105* . *1414 Rating* · *7 Months Streak* · *150+ Active Days*  
 
 <img src="./50-days.gif" width="60"/>
 <img src="./100-days.gif" width="60"/>
@@ -26,23 +26,27 @@ Building Scalable web systems with clean architecture & production-ready code us
 <img src="./2026 Feb.gif" width="60"/>
 <img src="./100-2026.gif" width="60"/>
 
-</div>
 
-<div align="center">
+**Social Links**
 
-<a href="https://leetcode.com/soumya724/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" />
+<a href="https://leetcode.com/soumya724/" target="_blank" style="margin:0px 10px;">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" />
 </a>
 
-<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank">
+<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank" style="margin:0px 10px;">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/soumya007GitHub" target="_blank">
+<a href="https://github.com/soumya007GitHub" target="_blank" style="margin:0px 10px;">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<br/><br/>
+<br/>
 
-🤝 Connect with me if you like my work & consider ⭐ starring my repositories :)
+<p style="margin-top:10px;">
+Connect with me if you like my work & consider ⭐ starring my repositories :)
+</p>
 </div>
+
+</div>
+
