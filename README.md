@@ -31,7 +31,7 @@ Building Scalable web systems with clean architecture & production-ready code us
 <div align="center">
 
 <a href="https://leetcode.com/soumya724/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" />
 </a>
 
 <a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank">
