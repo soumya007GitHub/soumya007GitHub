@@ -29,15 +29,15 @@ Building Scalable web systems with clean architecture & production-ready code us
 
 **Social Links**
 
-<a href="https://leetcode.com/soumya724/" target="_blank" style="margin:0px 10px;">
+<a href="https://leetcode.com/soumya724/" target="_blank" style="margin:0px 20px;">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
 </a>
 
-<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank" style="margin:0px 10px;">
+<a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank" style="margin:0px 20px;">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/soumya007GitHub" target="_blank" style="margin:0px 10px;">
+<a href="https://github.com/soumya007GitHub" target="_blank" style="margin:0px 20px;">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
