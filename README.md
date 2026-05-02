@@ -18,27 +18,27 @@ Building Scalable web systems with clean architecture & production-ready code us
 
 **LeetCode Metrics**  
 **Solved 350+ Problems** · **Global Ranking - 354,105** . **1414 Rating** · **7 Months Streak** · **150+ Active Days**  
-<a href="https://leetcode.com/soumya724/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/>
-</a>
 
-<img src="./50-days.gif" width="90"/>
-<img src="./100-days.gif" width="90"/>
-<img src="./jan-26.gif" width="90"/>
-<img src="./50-Days-2026.gif" width="90"/>
-<img src="./2026 Feb.gif" width="90"/>
-<img src="./100-2026.gif" width="90"/>
+<img src="./50-days.gif" width="60"/>
+<img src="./100-days.gif" width="60"/>
+<img src="./jan-26.gif" width="60"/>
+<img src="./50-Days-2026.gif" width="60"/>
+<img src="./2026 Feb.gif" width="60"/>
+<img src="./100-2026.gif" width="60"/>
 
 </div>
 
 <div align="center">
 
+<a href="https://leetcode.com/soumya724/" target="_blank">
+  (https://skillicons.dev/icons?i=leetcode)
+</a>
 <a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  (https://skillicons.dev/icons?i=linkedin)
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/soumya007GitHub" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  (https://skillicons.dev/icons?i=github)
 </a>
 
 <br/><br/>
