@@ -30,7 +30,7 @@ Building Scalable web systems with clean architecture & production-ready code us
 **Social Links**
 
 <a href="https://leetcode.com/soumya724/" target="_blank" style="margin:0px 10px;">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
 </a>
 
 <a href="https://www.linkedin.com/in/soumya-tripathy007" target="_blank" style="margin:0px 10px;">
