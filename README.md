@@ -11,6 +11,8 @@ Building Scalable web systems with clean architecture & production-ready code us
 
 **Tech Stack**  
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite,nextjs,nodejs,express,java,mongodb,mysql,firebase,materialui,aws,docker,kubernetes,git,github,githubactions,linux,nginx,postman)
+<img src="https://socket.io/images/logo-dark.svg" width="40"/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/v78ce60439c72b9da3632137223a86ae38b78a872a1f6dee1b5c1c8cfa57fe81d/webrtc/images/lockup.svg" width="140" style="margin-left:5px;"/>
 
 </div>
 
