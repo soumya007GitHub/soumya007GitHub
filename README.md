@@ -88,8 +88,9 @@ Building scalable web systems with clean architecture & production-ready code us
 
 # LeetCode Stats
 
-<table>
+<table width="100%" style="table-layout: fixed;">
 <tr>
+
 <td width="50%" valign="top">
 
 | Metric | Value |
@@ -102,21 +103,20 @@ Building scalable web systems with clean architecture & production-ready code us
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<p>
-  <img src="./50-days.gif" width="58"/>
-  <img src="./100-days.gif" width="58"/>
-  <img src="./jan-26.gif" width="58"/>
-</p>
+<img src="./50-days.gif" width="58"/>
+<img src="./100-days.gif" width="58"/>
+<img src="./jan-26.gif" width="58"/>
 
-<p>
-  <img src="./50-Days-2026.gif" width="58"/>
-  <img src="./2026 Feb.gif" width="58"/>
-  <img src="./100-2026.gif" width="58"/>
-</p>
+<br/><br/>
+
+<img src="./50-Days-2026.gif" width="58"/>
+<img src="./2026 Feb.gif" width="58"/>
+<img src="./100-2026.gif" width="58"/>
 
 </td>
+
 </tr>
 </table>
 
