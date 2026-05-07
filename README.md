@@ -17,23 +17,56 @@ Building scalable web systems with clean architecture & production-ready code us
 ## Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite,nextjs,materialui" height="42"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=html" height="42"/>
+  <img src="https://skillicons.dev/icons?i=css" height="42"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="42"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
+  <img src="https://skillicons.dev/icons?i=js" height="42"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="42"/>
+  <img src="https://skillicons.dev/icons?i=react" height="42"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="42"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="42"/>
+</div>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java" height="42"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
+  <img src="https://skillicons.dev/icons?i=express" height="42"/>
+  <img src="https://skillicons.dev/icons?i=java" height="42"/>
+</div>
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="42"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="42"/>
+</div>
 
-### DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx" height="42"/>
+### DevOps & Cloud
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=aws" height="42"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="42"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="42"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="42"/>
+</div>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,postman,vscode" height="42"/>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://skillicons.dev/icons?i=git" height="42"/>
+  <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="42"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="42"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="42"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+</div>
 
-### Real-Time
-<img src="https://socket.io/images/logo-dark.svg" width="42" height="42"/>
-<img src="https://www.gstatic.com/devrel-devsite/prod/v78ce60439c72b9da3632137223a86ae38b78a872a1f6dee1b5c1c8cfa57fe81d/webrtc/images/lockup.svg" width="120" height="50"/>
+### Real-Time Communication
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <img src="https://socket.io/images/logo-dark.svg" width="42" height="42"/>
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v78ce60439c72b9da3632137223a86ae38b78a872a1f6dee1b5c1c8cfa57fe81d/webrtc/images/lockup.svg" width="110" height="42"/>
+</div>
 
 </td>
 
@@ -44,21 +77,25 @@ Building scalable web systems with clean architecture & production-ready code us
 Solved 350+ Problems  
 Global Rank: 354,105  
 Rating: 1414  
-Streak: 7 Months  
-Active Days: 150+
+7 Months Streak  
+150+ Active Days  
 
 <br/>
 
-<img src="./50-days.gif" width="55" height="55"/>
-<img src="./100-days.gif" width="55" height="55"/>
-<img src="./jan-26.gif" width="55" height="55"/>
-<img src="./50-Days-2026.gif" width="55" height="55"/>
-<img src="./2026 Feb.gif" width="55" height="55"/>
-<img src="./100-2026.gif" width="55" height="55"/>
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="./50-days.gif" width="55" height="55"/>
+  <img src="./100-days.gif" width="55" height="55"/>
+  <img src="./jan-26.gif" width="55" height="55"/>
+  <img src="./50-Days-2026.gif" width="55" height="55"/>
+  <img src="./2026 Feb.gif" width="55" height="55"/>
+  <img src="./100-2026.gif" width="55" height="55"/>
+</div>
 
 ---
 
 ## Connect
+
+<div style="display:flex; gap:15px; align-items:center;">
 
 <a href="https://leetcode.com/soumya724/">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="42"/>
@@ -72,6 +109,8 @@ Active Days: 150+
   <img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
 
+</div>
+
 </td>
 </tr>
 </table>
@@ -80,6 +119,6 @@ Active Days: 150+
 
 <div align="center">
 
-If you like my work, consider starring my repositories
+If you like my work, consider ⭐ starring my repositories
 
 </div>
