@@ -1,115 +1,84 @@
 <div align="center">
 
-# Hi 👋, I'm Soumya Ranjan Tripathy
+# Hi, I'm Soumya Ranjan Tripathy
 
-Full Stack Developer @ Innowaft Pvt Ltd | Ex-Associate Analyst @ Deloitte  
+### Full Stack Developer @ Innowaft Pvt Ltd | Ex-Associate Analyst @ Deloitte
+
 Building scalable web systems with clean architecture & production-ready code using MERN Stack
+
 
 </div>
 
 ---
 
-<table width="100%">
+# Tech Stack
+
+<table>
 <tr>
-
-<td width="50%" valign="top">
-
-## Tech Stack
+<td valign="top" width="50%">
 
 ### Frontend
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=html" height="42"/>
-  <img src="https://skillicons.dev/icons?i=css" height="42"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="42"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
-  <img src="https://skillicons.dev/icons?i=js" height="42"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="42"/>
-  <img src="https://skillicons.dev/icons?i=react" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="42"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
-  <img src="https://skillicons.dev/icons?i=materialui" height="42"/>
-</div>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
+</p>
 
 ### Backend
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
-  <img src="https://skillicons.dev/icons?i=express" height="42"/>
-  <img src="https://skillicons.dev/icons?i=java" height="42"/>
-</div>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
 ### Database
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="42"/>
-</div>
 
-### DevOps & Cloud
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=aws" height="42"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="42"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="42"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="42"/>
-</div>
-
-### Tools
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=git" height="42"/>
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="42"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="42"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="42"/>
-</div>
-
-### Real-Time Communication
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <img src="https://socket.io/images/logo-dark.svg" width="42" height="42"/>
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v78ce60439c72b9da3632137223a86ae38b78a872a1f6dee1b5c1c8cfa57fe81d/webrtc/images/lockup.svg" width="110" height="42"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-## LeetCode Stats
+### DevOps & Cloud
 
-Solved 350+ Problems  
-Global Rank: 354,105  
-Rating: 1414  
-7 Months Streak  
-150+ Active Days  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
 
-<br/>
+### Tools
 
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-  <img src="./50-days.gif" width="55" height="55"/>
-  <img src="./100-days.gif" width="55" height="55"/>
-  <img src="./jan-26.gif" width="55" height="55"/>
-  <img src="./50-Days-2026.gif" width="55" height="55"/>
-  <img src="./2026 Feb.gif" width="55" height="55"/>
-  <img src="./100-2026.gif" width="55" height="55"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
----
+### Real-Time Communication
 
-## Connect
-
-<div style="display:flex; gap:15px; align-items:center;">
-
-<a href="https://leetcode.com/soumya724/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="42"/>
-</a>
-
-<a href="https://www.linkedin.com/in/soumya-tripathy007">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-
-<a href="https://github.com/soumya007GitHub">
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
-
-</div>
+<p>
+  <img src="https://socket.io/images/logo-dark.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v78ce60439c72b9da3632137223a86ae38b78a872a1f6dee1b5c1c8cfa57fe81d/webrtc/images/lockup.svg" width="110" height="55"/>
+</p>
 
 </td>
 </tr>
@@ -117,8 +86,64 @@ Rating: 1414
 
 ---
 
+# LeetCode Stats
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+| Metric | Value |
+|---|---|
+| Problems Solved | 350+ |
+| Global Rank | 354,105 |
+| Rating | 1414 |
+| 7 Months Streak | Active |
+| Active Days | 150+ |
+
+</td>
+
+<td width="50%" valign="top">
+
+<p>
+  <img src="./50-days.gif" width="58"/>
+  <img src="./100-days.gif" width="58"/>
+  <img src="./jan-26.gif" width="58"/>
+</p>
+
+<p>
+  <img src="./50-Days-2026.gif" width="58"/>
+  <img src="./2026 Feb.gif" width="58"/>
+  <img src="./100-2026.gif" width="58"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# Connect
+
 <div align="center">
 
-If you like my work, consider ⭐ starring my repositories
+<a href="https://leetcode.com/soumya724/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"/>
+</a>
+
+<a href="https://www.linkedin.com/in/soumya-tripathy007">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+</a>
+
+<a href="https://github.com/soumya007GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="42"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+If you like my work, consider starring my repositories
 
 </div>
