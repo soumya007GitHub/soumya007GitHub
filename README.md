@@ -90,7 +90,7 @@ Building scalable backend applications with Java and Spring Boot following clean
 
 | Metric | Value |
 |---------|-------|
-| Problems Solved | 350+ |
+| Problems Solved | 390+ |
 | Current Rating | 1414 |
 | Active Days | 150+ |
 | Daily Challenges | Regular Participant |
