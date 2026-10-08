@@ -2,7 +2,7 @@
 
 # Hi, I'm Soumya Ranjan Tripathy
 
-### Java Backend Developer | Spring Boot | REST APIs | Hibernate | MySQL
+### Java Backend Developer | Spring Boot | REST APIs | Hibernate | MySQL | 400+ Leetcode Problems Solved
 
 Building scalable backend applications with Java and Spring Boot following clean architecture principles.
 
@@ -21,16 +21,6 @@ Building scalable backend applications with Java and Spring Boot following clean
 </a>
 
 </div>
-
----
-
-# About Me
-
-- Java Backend Developer with experience building REST APIs using Spring Boot.
-- Strong understanding of Object-Oriented Programming, Collections, Exception Handling, Multithreading basics, and SQL.
-- Experience designing layered backend applications using DTOs, Services, Repositories, and JPA/Hibernate.
-- Interested in scalable backend systems, API design, database optimization, and software architecture.
-- Solved 350+ Data Structures & Algorithms problems on LeetCode.
 
 ---
 
@@ -84,16 +74,6 @@ Building scalable backend applications with Java and Spring Boot following clean
 <img src="https://skillicons.dev/icons?i=nginx" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-
-
-# LeetCode
-
-| Metric | Value |
-|---------|-------|
-| Problems Solved | 390+ |
-| Current Rating | 1414 |
-| Active Days | 150+ |
-| Daily Challenges | Regular Participant |
 
 ---
 
